@@ -30,5 +30,5 @@
     </a>
   </strong>
   <br>
-  *Registration not required unless you would like to reserve a table*
+  *Registration for the Ham Class and to reserve a table*
 </span>
