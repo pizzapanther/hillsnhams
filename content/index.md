@@ -30,5 +30,5 @@
     </a>
   </strong>
   <br>
-  *Registration for the Ham Class and to reserve a table*
+  *Registration required for the Ham Class and to reserve a table*
 </span>
