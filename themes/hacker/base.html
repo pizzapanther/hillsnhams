@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+    <!-- Setup theme-color -->
+    <!-- start theme color meta headers -->
+    <meta name="theme-color" content="#151515"/>
+    <meta name="msapplication-navbutton-color" content="#151515"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <!-- end theme color meta headers -->
+
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="HillsNHams" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <title>{% block title %}{{ page.title }}{% endblock %}</title>
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta name="description" content="{{ page.subtitle }}"/>
+    <meta property="og:description" content="{{ page.subtitle }}"/>
+    <meta property="og:site_name" content="Hills N Hams Fest"/>
+    <meta property="og:type" content="website"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta property="twitter:title" content="{{ page.title }}"/>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <a id="a-title" href="/">
+          <h1>{{ page.title }}</h1>
+        </a>
+        <h2>{{ page.subtitle }}</h2>
+      </div>
+    </header>
+    <div class="container">
+      <section id="main_content">
+        {% block content %}{% endblock %}
+      </section>
+    </div>
+  </body>
+</html>
