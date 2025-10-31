@@ -24,7 +24,11 @@
 **Need More Info? Contact Us:** hamfest@neutron.studio
 
 <span style="font-size: 120%;">
-  **[>> Registration](https://forms.gle/gqdtKVF43T1U6Uyv6)**
+  <strong>
+    <a href="https://forms.gle/gqdtKVF43T1U6Uyv6" target="_blank">
+      &gt;&gt; Registration
+    </a>
+  </strong>
   <br>
   *Registration not required unless you would like to reserve a table*
 </span>
