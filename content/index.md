@@ -3,7 +3,7 @@
   subtitle: Hamfest in the Texas Hill Country
 }
 
-## Saturday, January 26<sup>th</sup>
+## Saturday, January 26<sup>th</sup>, 2026
 
 <h2>
   Location:<br>
