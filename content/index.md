@@ -32,3 +32,7 @@
   <br>
   *Registration required for the Ham Class and to reserve a table*
 </span>
+
+---
+
+### Hosted by [Wildwood Assembly](https://www.wildwoodag.church/)
